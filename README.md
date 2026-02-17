@@ -9,7 +9,7 @@ Across these platforms, I have worked on:
 - Hardware debugging and system integration
 - Deployment on physical robotic systems (ROS-based stacks)
 
-Each project page contains further technical details.
+Project pages contain further details.
 
 ---
 
@@ -34,7 +34,7 @@ Each project page contains further technical details.
     <td width="25%" align="center">
       <strong>Custom-Built Humanoid Platform</strong><br/>
       Designed &amp; controlled AX-12 based system<br/><br/>
-      <a href="LINK_TO_DYNAMIXEL_PAGE">View Project →</a>
+      <a href="/Dynamixel%20Humanoid%20Platform">View Project →</a>
     </td>
     <td width="25%" align="center">
       <strong>Quadruped Platform Familiarisation</strong><br/>
