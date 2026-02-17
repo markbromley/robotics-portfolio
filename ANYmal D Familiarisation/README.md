@@ -7,6 +7,7 @@
 <p>
 Initial hands-on exposure to the ANYmal D platform, working with the standard locomotion stack in preparation for future learning-based experiments.
 </p>
+<p><i>(videos shown at 2x speed)</i></p>
     </td>
     <td width="40%" align="center" valign="top">
 
