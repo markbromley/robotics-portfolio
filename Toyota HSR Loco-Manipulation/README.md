@@ -23,8 +23,7 @@
 <p><i>(videos shown at 4x speed)</i></p>
     </td>
     <td width="40%" align="center" valign="top">
-
-![Toyota HSR Loco-Manipulation](https://github.com/user-attachments/assets/cc8c5e36-6ced-421e-b959-4a972588526a)
+      <video src="https://github.com/user-attachments/assets/cc8c5e36-6ced-421e-b959-4a972588526a"></video>
     </td>
   </tr>
 </table>
