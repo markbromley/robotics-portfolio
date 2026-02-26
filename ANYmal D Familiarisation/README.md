@@ -10,8 +10,7 @@ Initial hands-on exposure to the ANYmal D platform, working with the standard lo
 <p><i>(videos shown at 2x speed)</i></p>
     </td>
     <td width="40%" align="center" valign="top">
-
-![ANYmal D](https://github.com/user-attachments/assets/523817f7-92ee-48c1-82f2-a0bd9ad24657)
+      <video src="https://github.com/user-attachments/assets/523817f7-92ee-48c1-82f2-a0bd9ad24657"></video>
     </td>
   </tr>
 </table>
