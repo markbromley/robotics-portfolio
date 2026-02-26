@@ -37,14 +37,11 @@ Given a natural language instruction and a single RGB camera frame, the VLM sele
     <td width="40%" valign="top" align="center">
 
 <p><strong>Simulation</strong></p>
-
-![sim](https://github.com/user-attachments/assets/097051df-f059-4c3d-b18a-9c79dcfea41c)
-
+  <video src="https://github.com/user-attachments/assets/097051df-f059-4c3d-b18a-9c79dcfea41c"></video>
 <br/><br/>
 
 <p><strong>Real Robot</strong></p>
-
-![real](https://github.com/user-attachments/assets/67e36325-70ea-49c7-bf68-b36b1c3fee37)
+  <video src="https://github.com/user-attachments/assets/67e36325-70ea-49c7-bf68-b36b1c3fee37"></video>
     </td>
   </tr>
 </table>
