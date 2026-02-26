@@ -17,7 +17,7 @@ Project pages contain further details.
 
 | TurtleBot 3 | Toyota HSR | Custom Dynamixel Humanoid | ANYmal D |
 |-------------|------------|---------------------------|----------|
-| [![Turtlebot Real](https://github.com/user-attachments/assets/67e36325-70ea-49c7-bf68-b36b1c3fee37)](/VLMs%20for%20Explainable%20Reactive%20Control) | [![Toyota HSR Loco-Manipulation](https://github.com/user-attachments/assets/cc8c5e36-6ced-421e-b959-4a972588526a)](/Toyota%20HSR%20Loco-Manipulation) | [![Dynamixel](https://github.com/user-attachments/assets/ce616c8a-357b-4101-aff2-9c2ebcf1df54)](/Dynamixel%20Humanoid%20Platform) | [![ANYmal D](https://github.com/user-attachments/assets/523817f7-92ee-48c1-82f2-a0bd9ad24657)](/ANYmal%20D%20Familiarisation)|
+| <video src="https://github.com/user-attachments/assets/67e36325-70ea-49c7-bf68-b36b1c3fee37"></video> | <video src="https://github.com/user-attachments/assets/cc8c5e36-6ced-421e-b959-4a972588526a"> | <video src="https://github.com/user-attachments/assets/ce616c8a-357b-4101-aff2-9c2ebcf1df54"></video> | <video src="https://github.com/user-attachments/assets/523817f7-92ee-48c1-82f2-a0bd9ad24657"></video>|
 
 <table width="100%">
   <tr>
