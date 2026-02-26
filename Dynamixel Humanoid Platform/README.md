@@ -11,8 +11,7 @@ Explored gait stability, joint coordination, and failure modes through systemati
 </p>
     </td>
     <td width="40%" align="center" valign="top">
-      
-![Dynamixel](https://github.com/user-attachments/assets/ce616c8a-357b-4101-aff2-9c2ebcf1df54)
+      <video src="https://github.com/user-attachments/assets/ce616c8a-357b-4101-aff2-9c2ebcf1df54"></video>
     </td>
   </tr>
 </table>
